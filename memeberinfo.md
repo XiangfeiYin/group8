@@ -2,7 +2,7 @@
 ###成员信息
 
 1.尹相飞：  
-　　
+
 -github 用户名：XiangfeiYin  
 　　　　
 -gihub 的代码仓库： http://xiangfeiyin.gitbooks.io/omooc-py/content/   
