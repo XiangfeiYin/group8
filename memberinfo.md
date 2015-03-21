@@ -69,7 +69,7 @@
 
 7.史建刚：  
 　　
--gitHub的用户名：  
+-gitHub的用户名：  shijiangang
 　　
 -gihub 的代码仓库：  
 　　
